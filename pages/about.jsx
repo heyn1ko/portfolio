@@ -16,9 +16,7 @@ function About() {
             <h1 data-test-id="pageTitle" className="title">
               About
             </h1>
-            <p className="description">
-              Niko was born in Greece in 1985
-            </p>
+            <p className="description">Niko was born in Greece in 1985</p>
           </div>
         </div>
       </section>
